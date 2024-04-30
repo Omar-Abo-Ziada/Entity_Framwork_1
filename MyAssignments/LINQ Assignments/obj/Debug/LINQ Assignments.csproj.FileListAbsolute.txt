@@ -1,0 +1,14 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\MyAssignments\LINQ Assignments\bin\Debug\LINQ Assignments.exe.config
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\MyAssignments\LINQ Assignments\bin\Debug\LINQ Assignments.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\MyAssignments\LINQ Assignments\bin\Debug\LINQ Assignments.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\MyAssignments\LINQ Assignments\obj\Debug\LINQ Assignments.csproj.AssemblyReference.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\MyAssignments\LINQ Assignments\obj\Debug\LINQ Assignments.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\MyAssignments\LINQ Assignments\obj\Debug\LINQ Assignments.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\MyAssignments\LINQ Assignments\obj\Debug\LINQ Assignments.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\our Entity Framwork\Day11\MyAssignments\LINQ Assignments\bin\Debug\LINQ Assignments.exe.config
+O:\Software_Courses\My_ITI_44\16-C_Sharp\our Entity Framwork\Day11\MyAssignments\LINQ Assignments\bin\Debug\LINQ Assignments.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\our Entity Framwork\Day11\MyAssignments\LINQ Assignments\bin\Debug\LINQ Assignments.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\our Entity Framwork\Day11\MyAssignments\LINQ Assignments\obj\Debug\LINQ Assignments.csproj.AssemblyReference.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\our Entity Framwork\Day11\MyAssignments\LINQ Assignments\obj\Debug\LINQ Assignments.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\our Entity Framwork\Day11\MyAssignments\LINQ Assignments\obj\Debug\LINQ Assignments.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\our Entity Framwork\Day11\MyAssignments\LINQ Assignments\obj\Debug\LINQ Assignments.pdb
